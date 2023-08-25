@@ -3,7 +3,8 @@
 Sou desenvolvedor Full Stack, com enfâse na minha especilidade em programação back-end. Estou também dedicado a aprimorar minhas habilidades em tecnologias de front-end, visando me tornar um profissional completo e versátil na área.
 
 ![Ordone's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurkojanOwnz&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurkojanOwnz&hide_progress=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurkojanOwnz&hide_progress=true)
 
 ## Tecnologias que eu utilizo
 <div style="display: inline_block"><br/>
