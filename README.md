@@ -3,7 +3,7 @@
 Sou desenvolvedor Full Stack, com enfâse na minha especilidade em programação back-end. Estou também dedicado a aprimorar minhas habilidades em tecnologias de front-end, visando me tornar um profissional completo e versátil na área.
 
 ![Ordone's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurkojanOwnz&show_icons=true&theme=highcontrast)
-
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurkojanOwnz&hide_progress=true)
 
 ## Tecnologias que eu utilizo
@@ -18,8 +18,7 @@ Sou desenvolvedor Full Stack, com enfâse na minha especilidade em programação
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+</div><br/>
 
-Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(david.ordone.dev@gmail.com)]
+## Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/daviddiasordone/)]
