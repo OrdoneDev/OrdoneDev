@@ -3,8 +3,8 @@
 Sou desenvolvedor Full Stack, com enfâse na minha especilidade em programação back-end. Estou também dedicado a aprimorar minhas habilidades em tecnologias de front-end, visando me tornar um profissional completo e versátil na área.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TurkojanOwnz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkojanOwnz&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrdoneDev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrdoneDev&layout=compact&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que eu utilizo
